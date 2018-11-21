@@ -1,0 +1,19 @@
+<svg id="Cadenas" xmlns="http://www.w3.org/2000/svg" width="48" height="62" viewBox="0 0 24 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1488c9;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #1488c9;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_arrondi_5" data-name="Rectangle arrondi 5" class="cls-1" d="M1731,64.009V81.992h-21.99V64.009H1731Z" transform="translate(-1708 -52)"/>
+  <path id="Rectangle_arrondi_6" data-name="Rectangle arrondi 6" class="cls-1" d="M1712.99,63.989V59.478c0-3.573,3.59-6.47,7.3-6.47a6.6,6.6,0,0,1,6.72,6.47v5.511" transform="translate(-1708 -52)"/>
+  <ellipse class="cls-2" cx="12" cy="20.734" rx="2.19" ry="2.203"/>
+</svg>
